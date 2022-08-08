@@ -17,5 +17,5 @@ Install the cli from here as per respective os https://docs.aws.amazon.com/cli/l
 2. Create a environment name on that created app:
     aws amplify create-branch --app-id <appId> --branch-name <branchName>
 3. Deploy created zip on amplify using aws cli:
-    aws amplify start-deployment --app-id <appId> --branch-name <branchName> --source-url "<s3bucket url>"
+    aws amplify start-deployment --app-id <appId> --branch-name <branchName> --source-url <s3bucket url>
     
