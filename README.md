@@ -2,9 +2,9 @@
 
 ## Pre-requisites:
 Make sure you have:
-  - Firebase account.
-  - node installed in your machine.
-  - created a firebase project.
+  - AWS account.
+  - create a zip of dist folder.
+  - keep that zip in local or push that zip on any s3 bucket.
 
 ## Create a dist of this project
 1. Run "npm install" and "npm run build".
