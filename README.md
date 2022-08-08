@@ -27,4 +27,3 @@ Install the cli from here as per respective os https://docs.aws.amazon.com/cli/l
 3. Deploy created zip on amplify using aws cli:
     aws amplify start-deployment --app-id [appId] --branch-name [branchName] --source-url [s3bucket url]
 
-**## Deployment to AWS Amplify using aws-cli**
