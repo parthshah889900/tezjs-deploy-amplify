@@ -11,7 +11,7 @@ Go to https://aws.amazon.com/amplify/console/ to get started.
 4. Click on save and deploy.
 
 # Deploy to AWS Amplify using aws-cli
-Install the cli from here as per respective os https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html
+Install the cli from here as per respective os https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html and need to configure aws using aws configure command
 1. Create a hosting web app on amplify:
     aws amplify create-app --name <projectName>
 2. Create a environment name on that created app:
