@@ -7,6 +7,7 @@
 Run the following command to create tezjs project:
   - `npm create tez@latest`
   - `cd [projectName]`
+  - `npm install` - for installing the required dependencies
   - `npm run build` - for build the project
   - `npm run dev` - for run the project
 
