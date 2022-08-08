@@ -1,7 +1,7 @@
 # Deploy to AWS Amplify
 
 ## Deployed Url:
-  `https://dev.dz3btwpjryh1f.amplifyapp.com`
+https://dev.dz3btwpjryh1f.amplifyapp.com
 
 ## Preparing for deployment:
 Run the following command to create tezjs project:
