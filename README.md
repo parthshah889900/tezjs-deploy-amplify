@@ -2,9 +2,9 @@
 
 ## Pre-requisites:
 Make sure you have:
-    - AWS account
-    - AWS IAM user with amplify service permission
-    - tezjs project created
+  - Firebase account.
+  - node installed in your machine.
+  - created a firebase project.
 
 ## Create a dist of this project
 1. Run "npm install" and "npm run build".
