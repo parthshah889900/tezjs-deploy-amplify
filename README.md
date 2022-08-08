@@ -17,11 +17,6 @@ Make sure you have:
   - create a zip of dist folder.
   - keep that zip in local or push that zip on any s3 bucket.
 
-## Create a dist of this project
-1. Run "npm install" and "npm run build".
-2. Create a zip of dist.
-3. Push that zip to either on s3 or keep it in local.
-
 ## Deployment to AWS Amplify using Console
 Go to https://aws.amazon.com/amplify/console/ to get started.
 1. Create a hosting web app on amplify.
