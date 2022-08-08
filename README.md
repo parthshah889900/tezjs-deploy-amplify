@@ -3,7 +3,7 @@
 2. Create a zip of dist.
 3. Push that zip to either on s3 or keep it in local.
 
-# Deploy to AWS Amplify Console
+# Deploy to AWS Amplify using Console
 Go to https://aws.amazon.com/amplify/console/ to get started.
 1. Create a hosting web app on amplify.
 2. Choose any mention method you want for uploading the zip on amplify.
